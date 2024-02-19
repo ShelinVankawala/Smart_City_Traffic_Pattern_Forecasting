@@ -8,7 +8,7 @@ This repository contains the code for a machine learning-based traffic pattern f
 
 Make sure you have the following prerequisites installed:
 
-- Jyputer Notebook (Online - Google Colab)
+- Jupyter Notebook (Online - Google Colab)
 - [Required Python packages, e.g., scikit-learn, xgboost, lightgbm, etc.]
 
 ## Installation
